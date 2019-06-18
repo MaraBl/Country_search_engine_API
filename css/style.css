@@ -1,0 +1,15 @@
+body { text-align: center; background-image: url("https://images.pexels.com/photos/269850/pexels-photo-269850.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940"); background-size: cover; color: white; }
+
+section { margin: 30px auto; padding: 30px; max-width: 1200px; text-align: center; letter-spacing: 3px; background-color: rgba(0, 0, 0, 0.6); }
+
+h1 { color: white; font-size: 30px; }
+
+h2 { color: white; }
+
+button { background-color: #4CAF50; color: white; padding: 15px 32px; margin: 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; transition-duration: 0.4s; cursor: pointer; }
+
+button:hover { background-color: white; color: #4CAF50; }
+
+ul li { text-transform: uppercase; list-style-type: none; font-size: 20px; width: 60%; margin: 20px 20% 0 20%; }
+
+div { width: 60%; margin: 0 20%; line-height: 1.6; margin-bottom: 20px; }
