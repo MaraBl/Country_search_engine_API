@@ -1,4 +1,4 @@
-body { text-align: center; background-image: url("https://images.pexels.com/photos/269850/pexels-photo-269850.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940"); background-size: cover; color: white; }
+body { background-image: url("https://images.pexels.com/photos/269850/pexels-photo-269850.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940"); background-position: center; background-repeat: no-repeat; text-align: center; color: white; }
 
 section { margin: 30px auto; padding: 30px; max-width: 1200px; text-align: center; letter-spacing: 3px; background-color: rgba(0, 0, 0, 0.6); }
 
