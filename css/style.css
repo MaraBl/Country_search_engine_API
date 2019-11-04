@@ -1,6 +1,8 @@
-body { background-image: url("https://images.pexels.com/photos/269850/pexels-photo-269850.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940"); background-position: center; background-repeat: no-repeat; text-align: center; color: white; }
+body {padding: 0; margin: 0; }
 
-section { margin: 30px auto; padding: 30px; max-width: 1200px; text-align: center; letter-spacing: 3px; background-color: rgba(0, 0, 0, 0.6); }
+.background { margin: 0; padding: 0; background-image: url("https://images.pexels.com/photos/269850/pexels-photo-269850.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940"); background-position: center; background-repeat: no-repeat; background-size: cover;text-align: center; width: 100vw; height: 100vh; overflow: scroll;}
+
+section { margin: 30px auto; padding: 30px; max-width: 1200px; text-align: center; letter-spacing: 3px; background-color: rgba(0, 0, 0, 0.6); color: #fff; }
 
 h1 { color: white; font-size: 30px; }
 
